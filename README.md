@@ -11,6 +11,7 @@ Two-factor authentication system based on Kerberos protocol
 В программе используются следующие функции:
   
   TwoFactorAuth.py:
+      
       show_pass() - функция запускает отображение в консоли одноразового пароля (обновляется каждые 3 секунды);
   Client.py:
       authorize() - функция, запускающая процесс получения пользователем TGT;
