@@ -11,6 +11,18 @@ Two-factor authentication system based on Kerberos protocol
 
 Папка TwoFactorAuth - программное обеспечение для мобильного аутентификатора.
 
+Для полноценной работы программы запускаются следующие файлы:
+
+Client.py
+
+Server.py
+
+Service.py
+
+TwoFactorAuth.py
+
+Файл aes.py содержит в себе алгоритм шифрования AES и используется для шифровния данных, передаваемых в процессе аутентификации
+
 В программе используются следующие функции:
   
   TwoFactorAuth.py:
