@@ -1,0 +1,22 @@
+{
+	"astgs": {
+		"principal": "DNS@DNS.COM",
+		"tgtlifetime": "300000",
+		"serverhash": "65b63117b144dfe468d527e32d8ea102d9d10c04c9b9b7dfac9c7770debbc0cc",
+		"authresettime": "30"
+	},
+	"Askons": {
+		"authenticated": 1,
+		"authtimestamp": "1653296957",
+		"userhash": "65b63117b1a4dfe468d927e32d8ea302d9d10c04c9b9b7dfac9c7770deacc0cc",
+		"tgssessionkey": "0010010110000111010101010110011001111110111011000011100111000001111100001001011000000100011001100001001101000011010100110001101110000111001100100000110011010110000010111011010110010101011011100011011111010100000111001111010101110000111101100011111011110110",
+		"TOTPKey": "4ERR72TGJF26JYLXG2F5YJI46CPWLOEK"
+	},
+	"Default": {
+		"authenticated": 0,
+		"authtimestamp": "",
+		"userhash": "23622tjgdgdhkjgnrdh",
+		"tgssessionkey": "",
+		"TOTPKey": ""
+	}
+}
